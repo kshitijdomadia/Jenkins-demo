@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>First Jenkins Deployment!</title>
 </head>
 <body>
-
+<h1>First Jenkins Deployment!</h1>
 </body>
 </html>
